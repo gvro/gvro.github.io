@@ -37,19 +37,37 @@ footer {
 
     font-size: 40px;
     text-align: center;
+    padding-top: 30px;
 }
 
 .designer { 
 font-size: 12px;
 border-bottom: 5px;
+text-align: center;
+padding-top: 60px;
 } 
 
 .icons {
 	text-align: center;
+    padding-left: 1%;
 }
 
 .data {
     text-align: right;
+}
+
+.carousel {
+    background: white;
+    margin-top: 20px;
+}
+.carousel .item img{
+    margin: 0 auto; /* Align slide image horizontally center */
+    width: 600px;
+    height: 300px;
+}   
+
+.bs-example{
+    margin: 20px;
 }
 
 
