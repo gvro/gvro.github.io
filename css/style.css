@@ -292,8 +292,9 @@ img.five{
 }
 /*----*/
 .channel{
-	float:left;
+	float:center;
 	width:20%;
+	margin:10%; 
 }
 .clients{
 	background:url(../images/bbb.jpg) bottom;
